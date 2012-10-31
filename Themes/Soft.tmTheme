@@ -587,6 +587,19 @@
 				<string>#9B859D</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>Item access</string>
+			<key>scope</key>
+			<string>meta.item-access.arguments, meta.item-access punctuation.definition.arguments.*</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#ffffff50</string>
+				<key>foreground</key>
+				<string>#525252</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
 	<string>72CCDC24-6572-455D-8ED9-CC1834DCE3D9</string>
