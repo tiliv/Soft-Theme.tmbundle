@@ -589,6 +589,17 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Python: decorator + arguments</string>
+			<key>scope</key>
+			<string>meta.function.decorator punctuation.definition.arguments.*, meta.function.decorator.arguments, meta.function.decorator.arguments *</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#828282</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Item access</string>
 			<key>scope</key>
 			<string>meta.item-access.arguments, meta.item-access punctuation.definition.arguments.*</string>
