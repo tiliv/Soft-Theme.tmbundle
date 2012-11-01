@@ -175,6 +175,17 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Variable – *args, **kwargs</string>
+			<key>scope</key>
+			<string>variable.args.function.python, variable.kwargs.function.python</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Invalid – Deprecated</string>
 			<key>scope</key>
 			<string>invalid.deprecated</string>
