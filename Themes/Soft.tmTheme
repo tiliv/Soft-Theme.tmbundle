@@ -655,32 +655,6 @@
 				<string>#105c7c10</string>
 			</dict>
 		</dict>
-		<dict>
-			<key>name</key>
-			<string>Django Template: |filter</string>
-			<key>scope</key>
-			<string>meta.filters *</string>
-			<key>settings</key>
-			<dict>
-				<key>fontSize</key>
-				<string>0.9em</string>
-				<key>fontStyle</key>
-				<string>plain</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Django Template: |filter</string>
-			<key>scope</key>
-			<string>meta.filters *</string>
-			<key>settings</key>
-			<dict>
-				<key>background</key>
-				<string>#d0d0d0a0</string>
-				<key>fontStyle</key>
-				<string>italic</string>
-			</dict>
-		</dict>
 	</array>
 	<key>uuid</key>
 	<string>72CCDC24-6572-455D-8ED9-CC1834DCE3D9</string>
