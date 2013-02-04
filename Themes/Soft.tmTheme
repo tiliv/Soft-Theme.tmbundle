@@ -409,7 +409,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#E0C589</string>
+				<string>#AC885B</string>
 			</dict>
 		</dict>
 		<dict>
@@ -474,8 +474,10 @@
 			<string>meta.property-group support.constant.property-value.css, meta.property-value support.constant.property-value.css</string>
 			<key>settings</key>
 			<dict>
+				<key>background</key>
+				<string>#105C7C10</string>
 				<key>foreground</key>
-				<string>#F9EE98</string>
+				<string>#105C7C</string>
 			</dict>
 		</dict>
 		<dict>
@@ -573,7 +575,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#F9EE98</string>
+				<string>#105C7C</string>
 			</dict>
 		</dict>
 		<dict>
