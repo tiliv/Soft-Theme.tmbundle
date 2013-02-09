@@ -420,7 +420,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#CDA869</string>
+				<string>#CF6A4C</string>
 			</dict>
 		</dict>
 		<dict>
@@ -431,7 +431,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#8F9D6A</string>
+				<string>#8B98AB</string>
 			</dict>
 		</dict>
 		<dict>
@@ -442,7 +442,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#8B98AB</string>
+				<string>#354608</string>
 			</dict>
 		</dict>
 		<dict>
@@ -453,7 +453,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#9B703F</string>
+				<string>#7A935B</string>
 			</dict>
 		</dict>
 		<dict>
@@ -464,7 +464,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#C5AF75</string>
+				<string>#3258A0</string>
 			</dict>
 		</dict>
 		<dict>
@@ -498,6 +498,8 @@
 			<string>meta.property-value support.constant.named-color.css, meta.property-value constant</string>
 			<key>settings</key>
 			<dict>
+				<key>background</key>
+				<string>#CA784020</string>
 				<key>foreground</key>
 				<string>#CA7840</string>
 			</dict>
