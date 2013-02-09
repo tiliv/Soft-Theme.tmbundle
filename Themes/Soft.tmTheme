@@ -517,6 +517,17 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>css function parameter</string>
+			<key>scope</key>
+			<string>variable.parameter.misc.css</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#3258A010</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>⎇ diff.header</string>
 			<key>scope</key>
 			<string>meta.diff, meta.diff.header, meta.separator, meta.diff.range</string>
