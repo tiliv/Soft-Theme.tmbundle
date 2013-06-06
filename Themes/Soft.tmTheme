@@ -670,6 +670,17 @@
 				<string>#105c7c10</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>Markdown: markup.raw.block.markdown</string>
+			<key>scope</key>
+			<string>markup.raw.block.markdown</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#ffffff50</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
 	<string>72CCDC24-6572-455D-8ED9-CC1834DCE3D9</string>
