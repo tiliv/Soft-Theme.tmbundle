@@ -528,6 +528,17 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>LESS variable</string>
+			<key>scope</key>
+			<string>variable.other.less</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#8693A5</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>⎇ diff.header</string>
 			<key>scope</key>
 			<string>meta.diff, meta.diff.header, meta.separator, meta.diff.range</string>
