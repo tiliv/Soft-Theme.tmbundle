@@ -683,9 +683,9 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Markdown: markup.raw.block.markdown</string>
+			<string>Markdown: markup.raw.*.markdown</string>
 			<key>scope</key>
-			<string>markup.raw.block.markdown</string>
+			<string>markup.raw.*.markdown</string>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
