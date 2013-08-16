@@ -692,6 +692,17 @@
 				<string>#ffffff50</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>Django model reference: SomeModel.objects.all()</string>
+			<key>scope</key>
+			<string>meta.reference.django.model</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
 	<string>72CCDC24-6572-455D-8ED9-CC1834DCE3D9</string>
