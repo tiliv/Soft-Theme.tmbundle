@@ -1,9 +1,17 @@
 # Installation
 
-Download or clone the repository directly as a .tmbundle filename.  The directory will be detected on your drive as a runnable plugin file.
+Clone/download the repository and place/symlink it to ``~/Library/Application Support/Avian/Bundles``.
 
-# Use
+# Wat is this?
 
-Some of the initial theme elements were designed to be similar to look and feel like _iA Writer_, which happens to use the proprietary font _Nitty Light_.  Even if I owned the expensive bits, I wouldn't be allowed to put them here.  Instead, I enjoy using the [Cousine](http://www.fontsquirrel.com/fonts/cousine) font, which is free, looks pretty nice, and has a respectably tight line spacing.
+I've used dark themes most of my career (Twilight, you were my first true love).  I formed this affinity probably because every IDE I've ever touched comes with a light theme with bad contrasts.  Stark whites with unmitigated hard blue text.
 
-I still like Menlo on the average day, but Cousine looks more _iA Writer_-y, which I've grown accustomed to using over the months.
+Eventually I figured it had to be possible for me to make a light theme that I could dogfood and eventually enjoy using.
+
+This is it!
+
+I started the color scheme based on Twilight's (all but the light background, of course), and I've adjusted the colors over time as I find things needing attention.
+
+![Python](http://i.imgur.com/XPrBTae.png)
+![HTML](http://i.imgur.com/3NHlB5y.png)
+![CSS](http://i.imgur.com/7dFkgaT.png)
