@@ -105,13 +105,50 @@
 			<key>name</key>
 			<string>Raw string</string>
 			<key>scope</key>
-			<string>storage.type.string, string.quoted.*.*.raw-regex</string>
+			<string>string.quoted.*.*.unicode-raw-regex, string.quoted.*.*.raw-regex, string.quoted.*.*.raw</string>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
 				<string>#C34B2320</string>
 				<key>foreground</key>
 				<string>#C34B23</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Python: Unicode string</string>
+			<key>scope</key>
+			<string>string.quoted.*.*.unicode</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#C2700F20</string>
+				<key>foreground</key>
+				<string>#C2700F</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Python: Bytes</string>
+			<key>scope</key>
+			<string>string.quoted.*.*.bytes</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#30704F20</string>
+				<key>foreground</key>
+				<string>#30704F</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Shaded string</string>
+			<key>scope</key>
+			<string>storage.type.string</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#00000050</string>
 			</dict>
 		</dict>
 		<dict>
