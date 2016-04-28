@@ -116,6 +116,19 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Python: Docstring (double)</string>
+			<key>scope</key>
+			<string>comment.block.python, string.quoted.*.block</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#dfdfdff5</string>
+				<key>foreground</key>
+				<string>#7A935B</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Python: Unicode string</string>
 			<key>scope</key>
 			<string>string.quoted.*.*.unicode</string>
@@ -173,17 +186,6 @@
 			<dict>
 				<key>background</key>
 				<string>#105C7C10</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Docstring (double)</string>
-			<key>scope</key>
-			<string>string.quoted.*.block</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#7A935B</string>
 			</dict>
 		</dict>
 		<dict>
@@ -648,6 +650,17 @@
 			<dict>
 				<key>foreground</key>
 				<string>#CF6A4C</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Python: docstring</string>
+			<key>scope</key>
+			<string>comment.block.python</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>transparent</string>
 			</dict>
 		</dict>
 		<dict>
