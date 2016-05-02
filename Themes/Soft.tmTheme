@@ -29,7 +29,7 @@
 			<key>name</key>
 			<string>Comment</string>
 			<key>scope</key>
-			<string>comment</string>
+			<string>comment - comment.block.python</string>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
@@ -118,11 +118,9 @@
 			<key>name</key>
 			<string>Python: Docstring (double)</string>
 			<key>scope</key>
-			<string>comment.block.python, string.quoted.*.block</string>
+			<string>string.quoted.double</string>
 			<key>settings</key>
 			<dict>
-				<key>background</key>
-				<string>#dfdfdff5</string>
 				<key>foreground</key>
 				<string>#7A935B</string>
 			</dict>
