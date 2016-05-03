@@ -118,7 +118,7 @@
 			<key>name</key>
 			<string>Python: Docstring (double)</string>
 			<key>scope</key>
-			<string>string.quoted.double</string>
+			<string>string.quoted.double.block</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
