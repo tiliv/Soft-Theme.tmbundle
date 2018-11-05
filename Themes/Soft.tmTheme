@@ -3,9 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>author</key>
-	<string>Tim Valenta</string>
+	<string>Autumn Valenta</string>
+	<key>colorSpaceName</key>
+	<string>sRGB</string>
 	<key>name</key>
-	<string>Soft</string>
+	<string>Soft (Light)</string>
+	<key>semanticClass</key>
+	<string>theme.light.soft</string>
 	<key>settings</key>
 	<array>
 		<dict>
