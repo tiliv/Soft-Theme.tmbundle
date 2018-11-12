@@ -187,7 +187,7 @@
 			<key>name</key>
 			<string>String (single-line)</string>
 			<key>scope</key>
-			<string>string.quoted.*.single-line, string.quoted.*.html</string>
+			<string>string.quoted.*.js, string.quoted.*.single-line, string.quoted.*.html</string>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
