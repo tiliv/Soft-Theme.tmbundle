@@ -63,7 +63,11 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#00000040</string>
+				<string>#00000080</string>
+				<key>fontStyle</key>
+				<string>underline</string>
+				<key>foreground</key>
+				<string>#F5A289</string>
 			</dict>
 		</dict>
 		<dict>
