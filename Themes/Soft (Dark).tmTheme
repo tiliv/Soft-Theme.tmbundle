@@ -258,7 +258,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#46474A</string>
+				<string>#30313340</string>
 			</dict>
 		</dict>
 		<dict>
@@ -691,6 +691,39 @@
 				<string>#00000030</string>
 				<key>foreground</key>
 				<string>#9C9C9C</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Django Template: Examine • primary_content</string>
+			<key>scope</key>
+			<string>meta.scope.django.template.tag.block-body.primary_content</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#45473Bc0</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Django Template: Stylesheet</string>
+			<key>scope</key>
+			<string>meta.scope.django.template.tag.block-body.style_sheet</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#3E474Ac0</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Django Template: Script</string>
+			<key>scope</key>
+			<string>meta.scope.django.template.tag.block-body.javascript_*, meta.scope.django.tag.template.block-body.datatable_initialize, meta.scope.django.tag.template.block-body.axis_angular_dependencies</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#4E474Ac0</string>
 			</dict>
 		</dict>
 		<dict>
